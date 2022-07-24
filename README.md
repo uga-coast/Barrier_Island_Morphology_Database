@@ -10,5 +10,6 @@ Murshid, S., & Mariotti, G. (2021). Geometry of natural and engineered tidal inl
 
 Doran, K. S., Long, J.W., Birchler, J.J., Brenner, O.T., Hardy, M.W., Morgan, K.L.M, Stockdon, H.F., and Torres, M.L. (2017). Lidar-derived beach morphology (dune crest, dune toe, and shoreline) for U.S. Sandy coastlines (ver. 4.0, october 2020 https://doi.org/https://doi.org/10.5066/F7GF0S0Z
 
-## CoastMorph_Dbase_v37.mat 
-A database developed by Dr. Julia Mulhern for a much wider variety of islands but with fewer parameters for each island.
+## CoastMorphDatabase
+Dr. Mulhern's full Barrier Island Database can be found at https://hive.utah.edu/concern/datasets/cf95jb516?locale=en
+
