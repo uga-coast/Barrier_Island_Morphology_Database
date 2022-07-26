@@ -1,5 +1,5 @@
-# Barrier_Island_Morphology_Database
-Database of Barrier Island Morphology
+# Barrier_Island_Morphology_Database [![DOI](https://zenodo.org/badge/514987703.svg)](https://zenodo.org/badge/latestdoi/514987703)
+Database of Barrier Island Morphology 
 
 ## NeticaProfile1.xlsx 
 A database developed by Sheppard Medlin for a curated set of Barrier Islands along the Gulf and Atlantic Coasts of the United States.  Details can be found in Medlin et al. (2022).  Data from this database came from the following sources:
